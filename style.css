@@ -126,7 +126,6 @@ div.container{
         }
             .ul_acad{
                 display: block;
-                
             }
                 li.acad_pic{
                     display: block;
@@ -166,8 +165,6 @@ div.container{
                         max-height: 60px;
                         max-width: 60px;
                     }
-                    
-            
         .project2{
             display: block;
             background-color: wheat;
@@ -180,17 +177,14 @@ div.container{
             }
             p.myGreeting{
                 text-align: justify;
-                margin: 40px 50px 0px 10px;
+                margin: 40px 50px 0px 30px;
                 font-family: 'Courier New', Courier, monospace;
                 font-size: 20px;
-
             }
             p.myLife{
                 text-align: justify;
-                margin: 40px 50px 0px 10px;
+                margin: 20px 40px 0px 30px;
                 font-family: 'Adele', Adele;
                 font-size: 18px;
                 text-indent: 70px;
-
             }
-            
